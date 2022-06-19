@@ -1,0 +1,59 @@
+@import '../../../colors.scss';
+
+.navbar {
+    min-height: 70px;
+    position: sticky !important;
+    top: 0;
+    z-index: 3;
+    border-bottom: 1px solid #c5d3e2;
+
+    .trackier_logo {
+        width: 135px;
+    }
+
+    .navbar-light .navbar-brand {
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-link {
+        color: $black  !important;
+    }
+
+    .navbar-toggler {
+        color: $white  !important;
+    }
+
+    .me-auto {
+        justify-content: end;
+        width: 100%;
+    }
+
+}
+
+.scroll_navbar.navbar {
+    background-color: #011650;
+    border-bottom: 0px solid #c5d3e2;
+
+    .nav-link {
+        color: $white  !important;
+    }
+
+    p {
+        color: $white  !important;
+    }
+
+    .navbar-toggler {
+        color: #011650 !important;
+        border-color: white !important;
+    }
+
+    .navbar-toggler-icon {
+        background-image: url('../../../assets/menu_white.png') !important;
+    }
+}
+
+
+.box-shadow {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.12);
+}

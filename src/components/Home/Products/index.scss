@@ -1,0 +1,24 @@
+.products {
+    .title{
+        color: #001650;
+        font-size: 42px;
+    }
+    .product {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        border: 1px solid #001650;
+        padding: 18px;
+        background: #F8FAFF;
+        border-radius: 11px;
+        min-height: 385px;
+        img {
+            height: 200px;
+            width: auto;
+            margin: auto;
+        }
+        .badge{
+            background-color: #001650 !important;
+        }
+    }
+}

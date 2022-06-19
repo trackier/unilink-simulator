@@ -1,0 +1,22 @@
+.contact-us {
+    background: url('../../../assets/bg.svg') no-repeat center center fixed;
+
+    .primary {
+        color: #071E57;
+    }
+
+    .button_primary {
+        font-size: 13px;
+        font-weight: 400;
+        color: #FFFFFF;
+        background-color: #001650;
+        padding: 20px 20px 20px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: 5px;
+    }
+
+    .button_secondary {
+        background-color: #1D44EA !important;
+    }
+}
