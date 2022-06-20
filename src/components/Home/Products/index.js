@@ -1,7 +1,6 @@
 import React from "react";
 import { PRODUCTS } from "./constants";
 import "./index.scss";
-import Badge from "react-bootstrap/Badge";
 import Container from "react-bootstrap/esm/Container";
 const Products = () => {
   return (
@@ -19,7 +18,6 @@ const Products = () => {
                 />
                 <div className="d-flex justify-content-between align-items-center my-2">
                   <h3>{product.name}</h3>
-                  <Badge bg="secondary">{product.price}</Badge>
                 </div>
                 <p>{product.description}</p>
               </div>

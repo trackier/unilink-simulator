@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+
 const useHeader = () => {
   const [scroll, setScroll] = useState(false);
   const handleScroll = () => {
@@ -17,4 +18,5 @@ const useHeader = () => {
   }, []);
   return { scroll };
 };
+
 export default useHeader;

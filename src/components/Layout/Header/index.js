@@ -30,7 +30,7 @@ const Header = () => {
             )}
           </a>
           <div className="d-flex align-items-center">
-            <p className="mb-0 me-2 d-none d-md-block mt-2">| Deep Linking Simulator</p>
+            <p className="mb-0 me-2 d-none d-md-block mt-3">| Deep Linking Simulator</p>
           </div>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
