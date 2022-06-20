@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trackier/unilink-simulator.github.io/static/css/main.cfa42a60.css",
+    "main.js": "/trackier/unilink-simulator.github.io/static/js/main.f97110ce.js",
+    "static/js/787.d8f2dc10.chunk.js": "/trackier/unilink-simulator.github.io/static/js/787.d8f2dc10.chunk.js",
+    "static/media/chocochip.jpeg": "/trackier/unilink-simulator.github.io/static/media/chocochip.baa5aff330ddfefac7e1.jpeg",
+    "static/media/all.webp": "/trackier/unilink-simulator.github.io/static/media/all.19d386d7d3d3ec528d12.webp",
+    "static/media/vanilla.jpeg": "/trackier/unilink-simulator.github.io/static/media/vanilla.da3bfeea036d59e1823f.jpeg",
+    "static/media/blueberry.webp": "/trackier/unilink-simulator.github.io/static/media/blueberry.aa6d3e84a48b7706f91c.webp",
+    "static/media/menu_white.png": "/trackier/unilink-simulator.github.io/static/media/menu_white.cc3fbb28d86ed29b4344.png",
+    "static/media/trackier-black.webp": "/trackier/unilink-simulator.github.io/static/media/trackier-black.f4fd892f50926cb23fbe.webp",
+    "static/media/trackier-white.png": "/trackier/unilink-simulator.github.io/static/media/trackier-white.9556ac6b01452eeb3696.png",
+    "static/media/bg.svg": "/trackier/unilink-simulator.github.io/static/media/bg.35ced4175cc6f8491488.svg",
+    "index.html": "/trackier/unilink-simulator.github.io/index.html",
+    "main.cfa42a60.css.map": "/trackier/unilink-simulator.github.io/static/css/main.cfa42a60.css.map",
+    "main.f97110ce.js.map": "/trackier/unilink-simulator.github.io/static/js/main.f97110ce.js.map",
+    "787.d8f2dc10.chunk.js.map": "/trackier/unilink-simulator.github.io/static/js/787.d8f2dc10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa42a60.css",
+    "static/js/main.f97110ce.js"
+  ]
+}
