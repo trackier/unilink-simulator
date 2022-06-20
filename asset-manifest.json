@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unilink-simulator.github.io/static/css/main.e236b9a4.css",
-    "main.js": "/unilink-simulator.github.io/static/js/main.3ecaf8ad.js",
+    "main.js": "/unilink-simulator.github.io/static/js/main.248d0c34.js",
     "static/js/787.d8f2dc10.chunk.js": "/unilink-simulator.github.io/static/js/787.d8f2dc10.chunk.js",
     "static/media/chocochip.jpeg": "/unilink-simulator.github.io/static/media/chocochip.baa5aff330ddfefac7e1.jpeg",
     "static/media/all.webp": "/unilink-simulator.github.io/static/media/all.19d386d7d3d3ec528d12.webp",
@@ -13,11 +13,11 @@
     "static/media/bg.svg": "/unilink-simulator.github.io/static/media/bg.35ced4175cc6f8491488.svg",
     "index.html": "/unilink-simulator.github.io/index.html",
     "main.e236b9a4.css.map": "/unilink-simulator.github.io/static/css/main.e236b9a4.css.map",
-    "main.3ecaf8ad.js.map": "/unilink-simulator.github.io/static/js/main.3ecaf8ad.js.map",
+    "main.248d0c34.js.map": "/unilink-simulator.github.io/static/js/main.248d0c34.js.map",
     "787.d8f2dc10.chunk.js.map": "/unilink-simulator.github.io/static/js/787.d8f2dc10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e236b9a4.css",
-    "static/js/main.3ecaf8ad.js"
+    "static/js/main.248d0c34.js"
   ]
 }
