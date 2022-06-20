@@ -15,7 +15,7 @@ const Hero = () => {
           data-scroll-index="1"
         >
           <div className="col-lg-5 col-md-6 order-2 order-md-1">
-            <h3 className="mb-5">Find the magic of deep linking</h3>
+            <h3 className="mb-5">Feel the magic of deep linking !! </h3>
             {product ? (
               <h4 className="primary">
                 <b>Product:</b> {product}
