@@ -7,7 +7,6 @@ import trackier_white from "../../../assets/trackier-white.png";
 import trackier_black from "../../../assets/trackier-black.webp";
 import cx from "classnames";
 import useHeader from "./useHeader";
-import { Link } from "react-router-dom";
 
 const Header = () => {
   const { scroll } = useHeader();
@@ -36,15 +35,15 @@ const Header = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Link className="nav-link" to="/" data-scroll-nav="1">
+            <a className="nav-link" href="/" data-scroll-nav="1">
               Home
-            </Link>
-            <Link className="nav-link" to="/" data-scroll-nav="2">
+            </a>
+            <a className="nav-link" href="/" data-scroll-nav="2">
               Products
-            </Link>
-            <Link className="nav-link" to="/" data-scroll-nav="3">
+            </a>
+            <a className="nav-link" href="/" data-scroll-nav="3">
               Contact Us
-            </Link>
+            </a>
           </Nav>
         </Navbar.Collapse>
       </Container>
